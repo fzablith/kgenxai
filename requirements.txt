@@ -1,0 +1,9 @@
+flask
+requests
+rdflib
+streamlit
+google-generativeai
+pandas
+numpy
+scikit-learn
+owlrl
